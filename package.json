@@ -1,0 +1,27 @@
+{
+    "name": "pc-part-api",
+    "version": "1.0.0",
+    "description": "A simple backend application for a simple marketplace using express.js",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "nodemon server.js",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/evanrianto/pc-part-api.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/evanrianto/pc-part-api/issues"
+    },
+    "homepage": "https://github.com/evanrianto/pc-part-api#readme",
+    "dependencies": {
+        "body-parser": "^1.20.2",
+        "dotenv": "^16.0.3",
+        "express": "^4.18.2"
+    }
+}

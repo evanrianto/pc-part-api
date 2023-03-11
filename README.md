@@ -1,2 +1,3 @@
 # pc-part-api
-A simple backend application for a simple marketplace using express.js
+
+Sebuah backend app untuk database part computer sederhana
